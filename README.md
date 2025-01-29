@@ -1,11 +1,12 @@
 # Olá, eu sou Marx! 👋
 <div>
-  <img src="https://i.pinimg.com/originals/14/8b/73/148b735873cd6a80c85e4ab677c6bf9d.gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marxvictor&show_icons=true&theme=shadow_red"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxvictor&layout=compact&theme=shadow_red"/>
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marxvictor&show_icons=true&theme=shadow_red"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxvictor&layout=compact&theme=shadow_red"/>
+  <img height="" src="https://i.pinimg.com/originals/b5/dc/76/b5dc7620d2e185d2211f667ec510831b.gif"/>
+  <img src="https://i.pinimg.com/originals/32/a5/3d/32a53db6df27d7bd6a8919a9c0cc69bb.gif"/>
 </div>
 
 <div>

@@ -1,4 +1,7 @@
 # Olá, eu sou Marx! 👋
+<div>
+  <img src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif"/>
+</div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marxvictor&show_icons=true&theme=shadow_red"/>

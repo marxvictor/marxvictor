@@ -1,6 +1,6 @@
 # Olá, eu sou Marx! 👋
 <div>
-  <img height="444" src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif"/>
+  <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif"/>
 </div>
 
 <div>

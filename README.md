@@ -1,4 +1,4 @@
-# Olá, eu sou Marx! 👋
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+o+Marx!;Bem-vindo+ao+meu+perfil!&color=FF0000&size=30&width=600&height=50"/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marxvictor&show_icons=true&theme=shadow_red"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxvictor&layout=compact&theme=shadow_red"/>

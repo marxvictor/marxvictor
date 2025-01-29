@@ -2,10 +2,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marxvictor&show_icons=true&theme=shadow_red"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxvictor&layout=compact&theme=shadow_red"/>
-</div>
-
-<div>
-  <img height="500px" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"/>
+  <img height="100px" src="https://i.pinimg.com/originals/b5/dc/76/b5dc7620d2e185d2211f667ec510831b.gif"/>
 </div>
 
 <div>

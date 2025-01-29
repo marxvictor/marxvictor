@@ -12,7 +12,10 @@
 </div>
 
 <div>
-  <h2>Linguagens que já trabalhei</h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Linguagens+que+já+trabalhei.&color=ffffff&size=20&width=600&height=50"/>
+</div>
+
+<div>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -31,8 +34,15 @@
 </div>
 
 <div>
-  <h2>Redes Sociais</h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Redes+Sociais.&color=ffffff&size=20&width=600&height=50"/>
+</div>
+
+<div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
+</div>
+
+<div>
+  <img src="https://ghchart.rshah.org/marxvictor"/>
 </div>

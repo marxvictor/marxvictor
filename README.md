@@ -1,4 +1,11 @@
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+</div>
+
+<div>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+o+Marx!;Bem-vindo+ao+meu+perfil!&color=FF0000&size=30&width=600&height=50"/>
+</div>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marxvictor&show_icons=true&theme=shadow_red"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxvictor&layout=compact&theme=shadow_red"/>
@@ -42,6 +49,8 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marxvictor&bg_color=000000&color=fa0000&line=fa0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <img src="https://ghchart.rshah.org/marxvictor"/>

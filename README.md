@@ -14,7 +14,7 @@
   <img height="112px" src="https://i.pinimg.com/originals/b5/dc/76/b5dc7620d2e185d2211f667ec510831b.gif"/>
 </div>
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Linguagens+que+já+trabalhei.&color=ffffff&size=20&width=600&height=50"/>
 </div>
 
@@ -36,7 +36,7 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Redes+Sociais.&color=ffffff&size=20&width=600&height=50"/>
 </div>
 

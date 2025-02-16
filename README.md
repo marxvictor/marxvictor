@@ -1,8 +1,4 @@
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
-</div>
-
-<div>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+o+Marx!;Bem-vindo+ao+meu+perfil!&color=FF0000&size=30&width=600&height=50"/>
 </div>
 

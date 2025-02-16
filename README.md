@@ -47,7 +47,3 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marxvictor&bg_color=000000&color=fa0000&line=fa0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/marxvictor"/>
-</div>
